@@ -117,28 +117,34 @@ version: 0.0.0
     timeline - 网站历史时间线，在页面front-matter中设置layout: timeline可显示。
     Static files - 静态文件存储路径，方便设置CDN缓存。
     Theme version - 主题版本，便于静态文件更新后刷新CDN缓存。
-    主题特性
-    网站图标
+#### 主题特性
 
-    若要设置网站Favicon，可以将favicon.ico放在Hexo根目录的source文件夹下，建议的大小：32px*32px。
+##### 网站图标
 
-    若要为网站添加苹果设备图标，请将命名为apple-touch-icon.png的图片放在同样的位置，建议的大小：114px*114px。
-    文章摘要
+若要设置网站Favicon，可以将favicon.ico放在Hexo根目录的source文件夹下，建议的大小：32px*32px。
 
-    首页默认显示文章摘要而非全文，可以在文章的front-matter中填写一项description:来设置你想显示的摘要，或者直接在文章内容中插入<!--more-->以隐藏后面的内容。
-    若两者都未设置，则自动截取文章第一段作为摘要。
-    添加页面
+若要为网站添加苹果设备图标，请将命名为apple-touch-icon.png的图片放在同样的位置，建议的大小：114px*114px。
 
-    在source目录下建立相应名称的文件夹，然后在文件夹中建立index.md文件，并在index.md的front-matter中设置layout为layout: page。若需要单栏页面，就将layout设置为 layout: single-column。
-    文章目录
+##### 文章摘要
 
-    在文章的front-matter中添加toc: true即可让该篇文章显示目录。
-    文章评论
+首页默认显示文章摘要而非全文，可以在文章的front-matter中填写一项description:来设置你想显示的摘要，或者直接在文章内容中插入<!--more-->以隐藏后面的内容。
+若两者都未设置，则自动截取文章第一段作为摘要。
 
-    文章和页面的评论功能可以通过在front-matter中设置comments: true或comments: false来进行开启或关闭（默认开启）。
-    语法高亮
+##### 添加页面
 
-    要启用代码高亮，请在Hexo目录的_config.yml中将highlight选项按照如下设置：
+在source目录下建立相应名称的文件夹，然后在文件夹中建立index.md文件，并在index.md的front-matter中设置layout为layout: page。若需要单栏页面，就将layout设置为 layout: single-column。
+
+##### 文章目录
+
+在文章的front-matter中添加toc: true即可让该篇文章显示目录。
+
+##### 文章评论
+
+文章和页面的评论功能可以通过在front-matter中设置comments: true或comments: false来进行开启或关闭（默认开启）。
+
+##### 语法高亮
+
+要启用代码高亮，请在Hexo目录的_config.yml中将highlight选项按照如下设置：
 ```
 highlight:
   enable: true
@@ -146,7 +152,7 @@ highlight:
   line_number: true
   tab_replace:
 ```
-数学公式
+##### 数学公式
 
 要启用数学公式支持，请在Hexo目录的_config.yml中添加：
 ```
@@ -169,7 +175,8 @@ mathjax2: true
 而不是mathjax: true。 相应地，在需要使用数学公式的文章的front-matter中也添加mathjax2: true。
 
 示例。
-支持语言
+
+##### 支持语言
 
 目前支持简体中文（zh-CN），繁体中文（zh-TW），英语（en），法语（fr-FR），德语（de-DE），韩语（ko）和西班牙语（es-ES），欢迎翻译至其它语言。
 问题解决

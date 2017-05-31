@@ -95,3 +95,22 @@ jQuery remove() 方法也可接受一个参数，允许您对被删元素进行�
 $("p").remove(".italic");
 ```
 
+```
+npm install hexo-deployer-git --save
+
+ 按照如下内容修改blog-dev/_config.yml：
+
+title: Palance's Blog   # 标题
+subtitle:
+description:
+author: Palance Li
+language: zh-CN         # 语言设置
+url: http://palanceli.github.io/blog
+root: /blog/
+
+deploy:
+  type: git
+  repository: https://github.com/<自己的github账号>/blog.git
+  branch: gh-pages
+```
+

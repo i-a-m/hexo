@@ -2,6 +2,8 @@
 title: hexo常用命令
 tags: [hexo,前端,命令]
 categories: hexo
+toc: true
+comments: true
 ---
 
 ## hexo
