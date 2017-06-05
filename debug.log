@@ -9079,3 +9079,23 @@
 {"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":184,"level":30,"msg":"Copying files from extend dirs...","time":"2017-05-31T08:01:44.467Z","v":0}
 {"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":184,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2017-05-31T08:02:00.515Z","v":0}
 {"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":184,"level":20,"msg":"Database saved","time":"2017-05-31T08:02:00.524Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Hexo version: \u001b[35m3.3.6\u001b[39m","time":"2017-06-02T04:00:05.852Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Working directory: \u001b[35mD:\\hexo\\\u001b[39m","time":"2017-06-02T04:00:05.852Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Config loaded: \u001b[35mD:\\hexo\\_config.yml\u001b[39m","time":"2017-06-02T04:00:05.977Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-06-02T04:00:06.008Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-06-02T04:00:06.008Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-06-02T04:00:06.008Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-06-02T04:00:06.024Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-06-02T04:00:06.024Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-06-02T04:00:06.024Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-jade\u001b[39m","time":"2017-06-02T04:00:06.274Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-sass\u001b[39m","time":"2017-06-02T04:00:06.290Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-06-02T04:00:06.305Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-06-02T04:00:06.305Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-06-02T04:00:06.399Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2017-06-02T04:00:06.399Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-06-02T04:00:06.415Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":30,"msg":"Copying files from public folder...","time":"2017-06-02T04:00:06.524Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":30,"msg":"Copying files from extend dirs...","time":"2017-06-02T04:00:06.665Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2017-06-02T04:00:43.606Z","v":0}
+{"name":"hexo","hostname":"WINDOWS-SS3FDHB","pid":6952,"level":20,"msg":"Database saved","time":"2017-06-02T04:00:43.606Z","v":0}
