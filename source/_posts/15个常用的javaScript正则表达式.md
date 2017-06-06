@@ -1,7 +1,7 @@
 ---
 title: 15个常用的javaScript正则表达式
 tags: [前端,js,正则表达式]
-categories: [前端]
+categories: 前端
 ---
 
 ## 1 用户名正则
