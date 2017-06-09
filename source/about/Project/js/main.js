@@ -86,7 +86,7 @@ $(document).ready(function(){
 })
 
 
-var imgWrap= {
+/*var imgWrap= {
 		imgContent : function(sinNum,maxNum,folderName){
 			for(var i = sinNum ; i < maxNum ; i++){
 				var img = "<img src='img/"+folderName+"/pic-"+i+".png' />"
@@ -94,5 +94,5 @@ var imgWrap= {
 			}
 		}      
 	}
-
+*/
 
