@@ -18882,3 +18882,23 @@
 {"name":"hexo","hostname":"f77-Aphrodite","pid":3025,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-06-09T13:02:29.589Z","v":0}
 {"name":"hexo","hostname":"f77-Aphrodite","pid":3025,"level":30,"msg":"Copying files from public folder...","time":"2017-06-09T13:02:29.860Z","v":0}
 {"name":"hexo","hostname":"f77-Aphrodite","pid":3025,"level":30,"msg":"Copying files from extend dirs...","time":"2017-06-09T13:02:31.055Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":3025,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2017-06-09T13:03:08.856Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":3025,"level":20,"msg":"Database saved","time":"2017-06-09T13:03:08.865Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Hexo version: \u001b[35m3.3.6\u001b[39m","time":"2017-06-09T13:29:28.296Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Working directory: \u001b[35m~/workspace/hexo/\u001b[39m","time":"2017-06-09T13:29:28.302Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Config loaded: \u001b[35m~/workspace/hexo/_config.yml\u001b[39m","time":"2017-06-09T13:29:28.484Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-06-09T13:29:28.538Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-06-09T13:29:28.543Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-06-09T13:29:28.545Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-06-09T13:29:28.550Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-jade\u001b[39m","time":"2017-06-09T13:29:28.975Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-06-09T13:29:28.983Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-06-09T13:29:28.985Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-sass\u001b[39m","time":"2017-06-09T13:29:29.035Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-06-09T13:29:29.038Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-06-09T13:29:29.041Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-06-09T13:29:29.149Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2017-06-09T13:29:29.153Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-06-09T13:29:29.169Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":30,"msg":"Copying files from public folder...","time":"2017-06-09T13:29:29.310Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":4017,"level":30,"msg":"Copying files from extend dirs...","time":"2017-06-09T13:29:30.050Z","v":0}
