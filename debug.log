@@ -20689,3 +20689,23 @@
 {"name":"hexo","hostname":"f77-Aphrodite","pid":2798,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-06-09T13:54:48.118Z","v":0}
 {"name":"hexo","hostname":"f77-Aphrodite","pid":2798,"level":30,"msg":"Copying files from public folder...","time":"2017-06-09T13:54:48.251Z","v":0}
 {"name":"hexo","hostname":"f77-Aphrodite","pid":2798,"level":30,"msg":"Copying files from extend dirs...","time":"2017-06-09T13:54:48.687Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2798,"level":60,"err":{"message":"fatal: unable to access 'https://github.com/i-a-m/hexo.git/': Failed to connect to github.com port 443: 连接超时\n","name":"Error","stack":"Error: fatal: unable to access 'https://github.com/i-a-m/hexo.git/': Failed to connect to github.com port 443: 连接超时\n\n    at ChildProcess.<anonymous> (/home/f77/workspace/hexo/node_modules/hexo-util/lib/spawn.js:37:17)\n    at emitTwo (events.js:87:13)\n    at ChildProcess.emit (events.js:172:7)\n    at maybeClose (internal/child_process.js:821:16)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)","code":128},"msg":"Something's wrong. Maybe you can find the solution here: \u001b[4mhttp://hexo.io/docs/troubleshooting.html\u001b[24m","time":"2017-06-09T13:58:26.355Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2798,"level":20,"msg":"Database saved","time":"2017-06-09T13:58:26.640Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Hexo version: \u001b[35m3.3.6\u001b[39m","time":"2017-06-09T13:58:36.674Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Working directory: \u001b[35m~/workspace/hexo/\u001b[39m","time":"2017-06-09T13:58:36.678Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Config loaded: \u001b[35m~/workspace/hexo/_config.yml\u001b[39m","time":"2017-06-09T13:58:36.803Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-06-09T13:58:36.839Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-06-09T13:58:36.842Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-06-09T13:58:36.844Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-06-09T13:58:36.846Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-06-09T13:58:36.848Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-06-09T13:58:36.853Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-jade\u001b[39m","time":"2017-06-09T13:58:37.142Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-06-09T13:58:37.148Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-sass\u001b[39m","time":"2017-06-09T13:58:37.185Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-06-09T13:58:37.257Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-06-09T13:58:37.259Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2017-06-09T13:58:37.263Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-06-09T13:58:37.273Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":30,"msg":"Copying files from public folder...","time":"2017-06-09T13:58:37.425Z","v":0}
+{"name":"hexo","hostname":"f77-Aphrodite","pid":2859,"level":30,"msg":"Copying files from extend dirs...","time":"2017-06-09T13:58:38.363Z","v":0}
