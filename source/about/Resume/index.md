@@ -5,7 +5,7 @@ title: About ME
 >
 >email:	<i@mpengju.com>
 >
->project: [This is my projects](/about/Project/ "案例")
+>project: [This is my projects](/about/project/ "案例")
 
 ### 工作经历
 
