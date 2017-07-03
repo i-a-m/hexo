@@ -55,7 +55,27 @@ $(function(){
 					    name:"知识服务平台",  
 					    href:"zsfw.html",
 					    img:"img/zsfw/logo.jpg",
-					}		
+					}
+			items[11] ={  
+					    name:"聪聪龙",  
+					    href:"ccl.html",
+					    img:"img/ccl/logo.jpg",
+					}
+			items[12] ={  
+					    name:"中国问题研究",  
+					    href:"zgwtyj.html",
+					    img:"img/zgwtyj/logo.jpg",
+					}
+			items[13] ={  
+					    name:"中青色微信服务",  
+					    href:"zqs.html",
+					    img:"img/zqs/logo.jpg",
+					}
+			items[14] ={  
+					    name:"触摸屏",  
+					    href:"touchscreen.html",
+					    img:"img/touchscreen/logo.jpg",
+					}			
 	
 	var projectItem = {
 		projectHtml : function(content){
