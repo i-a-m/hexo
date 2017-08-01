@@ -1033,6 +1033,8 @@ figure.highlight,
         margin:      0;
         // To override cursor attribute of `.tag` components
         cursor:      text;
+		white-space: pre-wrap;
+		word-wrap: break-word;
     }
     // To align line number and line of code regardless if there is a scroll bar or not
     .gutter,
@@ -1081,7 +1083,6 @@ figure.highlight,
     }
     // All lines in gutter and code container
     .line {
-        height:    1.3em;
         font-size: 13px;
     }
 }

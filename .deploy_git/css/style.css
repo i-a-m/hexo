@@ -886,7 +886,9 @@ figure.highlight,
     border: none;
     padding: 0;
     margin: 0;
-    cursor: text; }
+    cursor: text;
+    white-space: pre-wrap;
+    word-wrap: break-word; }
   figure.highlight .gutter,
   figure.highlight .code,
   .codeblock .gutter,
@@ -925,7 +927,6 @@ figure.highlight,
       overflow-y: hidden; }
   figure.highlight .line,
   .codeblock .line {
-    height: 1.3em;
     font-size: 13px; }
 
 .gist .line,
