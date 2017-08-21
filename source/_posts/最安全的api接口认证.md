@@ -1,6 +1,6 @@
 ---
 title: 最安全的api接口认证
-tags: [Django,Python,]
+tags: [Django,Python]
 categories: Python
 ---
 ####最安全的api接口认证
@@ -45,13 +45,9 @@ Params = {
 }
 ```
 
-
-
 ```
 url=http://127.0.0.1:8000/asset/
 ```
-
-
 
 ```
 import hashlib,time

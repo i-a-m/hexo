@@ -50,12 +50,9 @@ categories: 前端
         objSelect.options.add(varItem);     
         alert("成功加入");     
     }  
-    }  
-​     
-    // 3.从select选项中 删除一个Item        
-    
+    } 
+    // 3.从select选项中 删除一个Item 
     function jsRemoveItemFromSelect(objSelect, objItemValue) { 
-    
     //判断是否存在        
     if (jsSelectIsExitItem(objSelect, objItemValue)) {        
         for (var i = 0; i < objSelect.options.length; i++) {        
@@ -69,14 +66,8 @@ categories: 前端
         alert("该select中 不存在该项");        
     }  
     } 
-
-​       
-       
-    
-    // 4.删除select中选中的项    
-    
+    // 4.删除select中选中的项 
     function jsRemoveSelectedItemFromSelect(objSelect) { 
-    
     var length = objSelect.options.length - 1;    
     for(var i = length; i >= 0; i--){    
         if(objSelect[i].selected == true){    
@@ -84,7 +75,7 @@ categories: 前端
         }    
     }   
     }  
-
+    
     // 5.修改select选项中 value="paraValue"的text为"paraText"        
     
     function jsUpdateItemToSelect(objSelect, objItemText, objItemValue) { 
@@ -102,7 +93,7 @@ categories: 前端
         alert("该select中 不存在该项");        
     }
     }  
-  
+      
     // 6.设置select中text="paraText"的第一个Item为选中        
     
     function jsSelectItemByValue(objSelect, objItemText) {     
@@ -123,33 +114,17 @@ categories: 前端
         alert("该select中 不存在该项");        
     }  
     } 
-
+    
     // 7.设置select中value="paraValue"的Item为选中    
     
-    document.all.objSelect.value = objItemValue;    
-    
-           
-    
-    // 8.得到select的当前选中项的value    
-    
-    var currSelectValue = document.all.objSelect.value;    
-    
-           
-    
-    // 9.得到select的当前选中项的text    
-    
-    var currSelectText = document.all.objSelect.options[document.all.objSelect.selectedIndex].text;    
-    
-           
-    
-    // 10.得到select的当前选中项的Index    
-    
+    document.all.objSelect.value = objItemValue;   
+    // 8.得到select的当前选中项的value 
+    var currSelectValue = document.all.objSelect.value;  
+    // 9.得到select的当前选中项的text   
+    var currSelectText = document.all.objSelect.options[document.all.objSelect.selectedIndex].text;     
+    // 10.得到select的当前选中项的Index
     var currSelectIndex = document.all.objSelect.selectedIndex;    
-    
-           
-    
-    // 11.清空select的项    
-    
+    // 11.清空select的项   
     document.all.objSelect.options.length = 0; 
-    
+​    
 
