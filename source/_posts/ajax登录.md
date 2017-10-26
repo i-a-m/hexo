@@ -4,13 +4,7 @@ tags: [ajax,前端,js]
 categories: 前端
 ---
 
-```
-<div style="margin-left:50px; margin-top:50px; ">
-欢迎使用后台，<a href="Login.htm?TB_iframe&height=180&width=350&modal=true" class="thickbox" id="myToolTip" title="点击登录，进入后台管理" >点击登录！</a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-继续浏览前台，<a href="../Default.aspx">返回前台</a>
-```
-
-login.htm：真正的登录界面，负责登录逻辑 代码
+####login.htm：真正的登录界面，负责登录逻辑 代码
 
 ```
 <script type="text/javascript" src="js/jquery-1.3.2.js"></script>
@@ -103,7 +97,7 @@ context.Response.Write("fail");
 
  ok，一个简单的登录功能就完成了，当然此处在登录的时候没有进行密码加密。
 
-下面我们来看看jQuery的加密插件MD5插件， 使用十分方便，加入md5.js的引用就可以使用$.md5()函数对字符串进行加密，
+####下面我们来看看jQuery的加密插件MD5插件， 使用十分方便，加入md5.js的引用就可以使用$.md5()函数对字符串进行加密，
 
 
 如下对上述代码做稍微改变，即可看到加密后的字符串，

@@ -3,11 +3,9 @@ title: ajax异步文件上传和进度条
 tags: [前端,ajax,上传]
 categories: 前端
 ---
-**一、ajax异步文件上传**
+###一、ajax异步文件上传
 
 　　之前有说过在form表单内的文件上传，但是会刷新页面，下面就来实现不刷新页面的异步文件上传
-
- 
 
 ```
 <div class="uploding_div">
@@ -15,8 +13,6 @@ categories: 前端
     <span class="put_upload" onclick="FileUpload()">上传</span>
 </div>
 ```
-
- 
 
 ```
 <script>
@@ -43,11 +39,7 @@ function FileUpload(){
 </script>
 ```
 
- 
-
 后台views
-
-
 
 ```
 def file_upload(request):
@@ -63,11 +55,9 @@ def file_upload(request):
 
 
 
-**二、进度条的实现**
+###二、进度条的实现
 
 从Bootstrap找一个进度条
-
-
 
 ```
 <!--进度条-->
@@ -80,10 +70,6 @@ def file_upload(request):
  </div>
 <!--进度条-->
 ```
-
-
-
-
 
 ```
 <div class="uploding_div">
